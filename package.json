@@ -1,0 +1,37 @@
+{
+  "name": "ferry_kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": "ts-mocha test/*.ts"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.7",
+    "mocha": "^10.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "ts-mocha": "^10.0.0"
+  }
+}
