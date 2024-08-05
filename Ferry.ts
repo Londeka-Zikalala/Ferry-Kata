@@ -2,10 +2,10 @@ import ICar from './ICar';
 import IFerry from './IFerry';
 
 export default class Ferry implements IFerry {
-  private cars: ICar[] = [];
-  private passengerCount: number = 0; 
-  private carCount: number = 0; 
-  constructor(private allCars: number, private allPeople: number) {}
+  public cars: ICar[] = [];
+  public  passengerCount: number = 0; 
+  public  carCount: number = 0; 
+  constructor(public allCars: number, public allPeople: number) {}
 
   // Method to board a car onto the ferry
  
