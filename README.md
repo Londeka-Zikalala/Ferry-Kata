@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/Londeka-Zikalala/Ferry-Kata/actions/workflows/node.js.yml/badge.svg)](https://github.com/Londeka-Zikalala/Ferry-Kata/actions/workflows/node.js.yml)
 # Ferry Kata
 
 This project simulates a ferry system that controls the number of cars and passengers allowed on a ferry.
