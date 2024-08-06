@@ -23,7 +23,8 @@
   "contributors": [],
   "scripts": {
     "dev": "",
-    "test": "ts-mocha test/*.ts"
+    "test": "ts-mocha test/*.ts",
+     "start": "npm test"
   },
   "devDependencies": {
     "@types/mocha": "^10.0.7",
