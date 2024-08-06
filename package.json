@@ -23,6 +23,7 @@
   "contributors": [],
   "scripts": {
     "dev": "",
+    "build": "tsc",
     "test": "ts-mocha test/*.ts",
      "start": "npm test"
   },
